@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ilotterytea/ilotterytea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...https://cdn.frankerfacez.com/emoticon/514703/2
 -->
-## Ку ![peepoHey by PhysiCle](https://cdn.betterttv.net/emote/5f6a15fa3277fd70b018b40e/2x)
+<!--## Ку ![peepoHey by PhysiCle](https://cdn.betterttv.net/emote/5f69d8fbb8762470a45abe51/1x)
+- Вы на странице популярной многопользовательной игры жанра шутер от 3 лица "DOKA 2"
+- Знаю Русский язык и со мной бог ![peepoBless by Laden](https://cdn.betterttv.net/emote/5f66bfc8d7160803d895c5c9/1x)
+- Изучаю язык программирования Python и чучуть знаю "Язык разметки гипертекста"
+- Известный факт: человек состоит 98% из кукурузы!!! Не верите?? А вы проверьте! -->
+
+![lol](https://sun9-71.userapi.com/lcPvj98VSnr-z0FgMSypTpoS0DVakRnZ9RuMNw/wQ5j2aensSc.jpg)
