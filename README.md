@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...https://cdn.frankerfacez.com/emoticon/514703/2 -->
 
-![](https://i.redd.it/rtoovzzf2mb51.png)
+### ![](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/4000/68b256cdce39f86404df0fb99c241b31028d8bb9.png) ![](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/4000/3767c83de6a993221e87ab75f9c120e5e11151bb.png)
+
+## [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilteapls&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
